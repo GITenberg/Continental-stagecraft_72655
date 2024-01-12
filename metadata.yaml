@@ -1,0 +1,31 @@
+_repo: Continental-stagecraft_72655
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jones, Robert Edmund
+    gutenberg_agent_id: '56769'
+    url: http://www.gutenberg.org/2009/agents/56769
+  - agent_name: MacGowan, Kenneth
+    gutenberg_agent_id: '56768'
+    url: http://www.gutenberg.org/2009/agents/56768
+description: ''
+gutenberg_issued: '2024-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72655'
+language: en
+pgterms:marc904: https://archive.org/details/continentalstage00macg_0/page/n9/mode/2up
+pgterms:marc905: 20210422202107macgowan
+pgterms:marc906: '1922'
+pgterms:marc907: EN
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bHarcourt, Brace and Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Continental stagecraft
+url: http://www.gutenberg.org/ebooks/72655
